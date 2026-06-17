@@ -1,0 +1,138 @@
+**Privacy Policy**
+
+**Last Updated:** June 2026
+
+Welcome to **Novels & Books - Urdu - English**. Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information while using our application.
+
+────────────────────────
+
+**1. Information We Collect**
+
+The app may collect and store limited information necessary for providing app features and improving the user experience.
+
+This information may include:
+
+• Google account information used for sign-in (name, email address, and profile picture).
+
+• Reading progress.
+
+• Bookmarks and saved content.
+
+• Ratings and comments submitted by you.
+
+• Feedback messages you send through the app.
+
+────────────────────────
+
+**2. Why We Use Your Information**
+
+Your account information is used only to provide app functionality, including:
+
+• Synchronizing your reading progress.
+
+• Saving bookmarks.
+
+• Saving ratings and comments.
+
+• Providing personalized features.
+
+• Restoring your data when you reinstall the app or switch devices.
+
+• Responding to feedback and support requests.
+
+Your account is used only for app functionality.
+
+────────────────────────
+
+**3. Google Sign-In**
+
+You may create an account using Google Sign-In.
+
+The app only accesses the basic information provided by your Google account, such as:
+
+• Name
+
+• Email address
+
+• Profile picture
+
+No passwords are stored by the app.
+
+────────────────────────
+
+**4. Bookmarks and Reading Progress**
+
+When you are signed in, the app stores your bookmarks and reading progress securely so that you can continue reading across devices.
+
+These features are optional and are available to improve your reading experience.
+
+────────────────────────
+
+**5. User Control**
+
+You are always in control of your account and data.
+
+You can:
+
+• Sign out at any time.
+
+• Remove bookmarks.
+
+• Clear app data from your device.
+
+• Delete your account from within the app.
+
+When your account is deleted, your bookmarks and account information associated with the app are permanently removed.
+
+────────────────────────
+
+**6. Data Sharing**
+
+We do not sell, rent, or trade your personal information.
+
+Your information is never shared with third parties for advertising or marketing purposes.
+
+────────────────────────
+
+**7. Security**
+
+We take reasonable measures to protect your information.
+
+User data is stored securely using Firebase services provided by Google.
+
+However, no method of storage or transmission over the internet can guarantee absolute security.
+
+────────────────────────
+
+**8. Feedback and Contact**
+
+If you send feedback through the app, the information you provide is used solely for improving the application and providing support.
+
+────────────────────────
+
+**9. Children's Privacy**
+
+This app is intended for general audiences.
+
+We do not knowingly collect personal information from children under 13 years of age.
+
+────────────────────────
+
+**10. Changes to This Privacy Policy**
+
+This Privacy Policy may be updated from time to time.
+
+Any changes will be reflected within the app, and continued use of the app indicates acceptance of the updated policy.
+
+────────────────────────
+
+**11. Consent**
+
+By using Urdu Novels & Stories, you agree to this Privacy Policy and consent to the collection and use of information described above.
+
+Thank you for using Novels & Books - Urdu - English.
+
+For further you can contact us:
+awesome.mail786@gmail.com
+
+We are committed to providing a safe, enjoyable, and privacy-respecting reading experience for all users.
