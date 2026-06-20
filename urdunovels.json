@@ -2,11 +2,11 @@
   "urdunovels": [
     {
       "id": "1",
-      "title": "The Silent Patient",
-      "author": "Alex Michaelides",
+      "title": "روشنیوں کے درمیان",
+      "author": "Self",
       "coverUrl": "https://picsum.photos/id/1015/300/400",
-      "description": "Alicia Berenson refuses to speak after shooting her husband.",
-      "category": "Action",
+      "description": "یہ شہر دھند اوڑھ لیتا ہے، لیکن اس کے باوجود ہر گلی، ہر سڑک اور ہر شام میں ایک الگ سی زندگی دھڑکتی رہتی ہے۔",
+      "category": "Romantic",
       "chapters": {
         "1": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/chapters/urdunovels/firstnovel/chapter1.txt",
         "2": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/chapters/urdunovels/firstnovel/chapter2.txt",
