@@ -132,14 +132,14 @@
     },
     {
       "id": "12",
-      "title": "Version Check2",
-      "author": "David Goggins",
+      "title": "Mohabat Ki Raheen",
+      "author": "Novels App",
       "coverUrl": "https://picsum.photos/id/111/300/400",
       "description": "Master your mind and defy the odds.",
-      "category": "Action",
+      "category": "Romantic",
       "chapters": {
-        "1": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/EnglishBooks/Action/chapters/10/1.txt",
-        "2": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/EnglishBooks/Action/chapters/10/2.txt"
+        "1": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/EnglishBooks/Action/chapters/12/1.txt",
+        "2": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/EnglishBooks/Action/chapters/12/2.txt"
       }
     }
   ]
