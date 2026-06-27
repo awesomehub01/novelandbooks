@@ -9,8 +9,22 @@
       "category": "Fiction",
       "episodes": {
         "1": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Zeerak_Zann/ep1.txt",
-        "2": "",
-        "3": ""
+        "2": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Zeerak_Zann/ep2.txt",
+        "3": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Zeerak_Zann/ep3.txt",
+        "4": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Zeerak_Zann/ep4.txt",
+        "5": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Zeerak_Zann/ep5.txt",
+        "6": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Zeerak_Zann/ep6.txt",
+        "7": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Zeerak_Zann/ep7.txt",
+        "8": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Zeerak_Zann/ep8.txt",
+        "9": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Zeerak_Zann/ep9.txt",
+        "10": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Zeerak_Zann/ep10.txt",
+        "11": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Zeerak_Zann/ep11.txt",
+        "12": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Zeerak_Zann/ep12.txt",
+        "13": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Zeerak_Zann/ep13.txt",
+        "14": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Zeerak_Zann/ep14.txt",
+        "15": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Zeerak_Zann/ep15.txt",
+        "16": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Zeerak_Zann/ep16.txt",
+        "17": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Zeerak_Zann/ep17.txt"
       }
     }
   ]
