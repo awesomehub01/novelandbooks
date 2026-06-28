@@ -32,8 +32,7 @@
       "title": "Mann Kay Muhallay Mein",
       "author": "Shakeel Ahmed Chohan",
       "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Mann_Kay_Muhallay_Mein/Mann_Kay_Muhallay_Mein.png",
-      "description": "محبت بے درد سا درد ہے۔“ ناول خاتون نے اپنے ہینڈ بیگ سے نکالا ہی تھا۔ اُس خاتون کے ساتھ بیٹھے ہوئے لڑکے کے چہرے پر طنزیہ مسکراہٹ آٹپکی۔ اُس نے خاتون کی طرف دیکھا جو حجاب میں تھی، ہاتھوں پر اس نے باریک کپڑے کے کالے دستانے چڑھا رکھے تھے۔ چہرے پر نقاب تھا صرف اُس کی سیاہ گہری آنکھیں نظر آ رہی تھیں۔
-خاتون کی نظریں ناول کے پَنّوں پر لفظوں کا تعاقب کر رہی تھیں۔",
+      "description": "محبت بے درد سا درد ہے۔ ناول خاتون نے اپنے ہینڈ بیگ سے نکالا ہی تھا۔ اُس خاتون کے ساتھ بیٹھے ہوئے لڑکے کے چہرے پر طنزیہ مسکراہٹ آٹپکی۔ اُس نے خاتون کی طرف دیکھا جو حجاب میں تھی، ہاتھوں پر اس نے باریک کپڑے کے کالے دستانے چڑھا رکھے تھے",
       "category": "Romantic",
       "episodes": {
         "1": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Mann_Kay_Muhallay_Mein/ep1.txt",
@@ -91,6 +90,6 @@
         "19": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Dil_Adal_Badal/ep19.txt",
         "20": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Dil_Adal_Badal/ep20.txt"
       }
-    },
+    }
   ]
 }
