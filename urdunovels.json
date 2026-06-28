@@ -61,6 +61,36 @@
         "23": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Mann_Kay_Muhallay_Mein/ep23.txt",
         "24": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Mann_Kay_Muhallay_Mein/ep24.txt"
       }
-    }
+    },
+    {
+      "id": "3",
+      "title": "Dil Adal Badal",
+      "author": "Shakeel Ahmed Chohan",
+      "coverUrl": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Dil_Adal_Badal/Dil_Adal_Badal.png",
+      "description": "میں نے جب سے ہوش سنبھالا ڈائری لکھ رہا ہوں ۔ پہلے اپنی کاپیوں سے ڈائری کا کام لیتا تھا۔ پھر عارفہ نے مجھے سعودیہ سے آئی ہوئی ڈائریاں گفٹ کرنا شروع کر دیں۔ آخری بار اُس نے مجھے 1998ء کی دو ڈائریاں گفٹ کی تھیں۔ ایک میں نے رکھ لی اور دوسری میں نے بسمہ کو اپنی محبت کے تحفے کے طور پر پیش کر دی تھی۔ بسمہ کو وہ میں نے پہلا اور آخری تحفہ دیا تھا۔",
+      "category": "Fiction",
+      "episodes": {
+        "1": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Dil_Adal_Badal/ep1.txt",
+        "2": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Dil_Adal_Badal/ep2.txt",
+        "3": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Dil_Adal_Badal/ep3.txt",
+        "4": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Dil_Adal_Badal/ep4.txt",
+        "5": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Dil_Adal_Badal/ep5.txt",
+        "6": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Dil_Adal_Badal/ep6.txt",
+        "7": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Dil_Adal_Badal/ep7.txt",
+        "8": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Dil_Adal_Badal/ep8.txt",
+        "9": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Dil_Adal_Badal/ep9.txt",
+        "10": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Dil_Adal_Badal/ep10.txt",
+        "11": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Dil_Adal_Badal/ep11.txt",
+        "12": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Dil_Adal_Badal/ep12.txt",
+        "13": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Dil_Adal_Badal/ep13.txt",
+        "14": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Dil_Adal_Badal/ep14.txt",
+        "15": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Dil_Adal_Badal/ep15.txt",
+        "16": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Dil_Adal_Badal/ep16.txt",
+        "17": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Dil_Adal_Badal/ep17.txt",
+        "18": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Dil_Adal_Badal/ep18.txt",
+        "19": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Dil_Adal_Badal/ep19.txt",
+        "20": "https://raw.githubusercontent.com/awesomehub01/novelandbooks/main/urdunovels/Dil_Adal_Badal/ep20.txt"
+      }
+    },
   ]
 }
